@@ -1,0 +1,8 @@
+# classEstudante.py
+# n = 'Yuri'
+# m = 2
+# x = n/m
+
+# Criar uma classe Pessoa com atributo nome.
+# Criar uma classe Estudante que herda de pessoa com nome da escola.
+# Criar uma classe Empregado que herda de pessoa com nome da empresa.
